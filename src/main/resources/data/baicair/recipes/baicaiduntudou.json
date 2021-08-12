@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "B",
+    "C"
+  ],
+  "key": {
+    "A": {
+      "item": "baicair:chinese_cabbage"
+    },
+    "B": {
+      "item": "minecraft:potato"
+    },
+    "C": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "baicair:baicaiduntudou",
+    "count": 1
+  }
+}
