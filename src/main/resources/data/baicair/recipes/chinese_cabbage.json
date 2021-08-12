@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "baicair:a_words"
+    }
+  ],
+  "result": {
+    "item": "baicair:chinese_cabbage",
+    "count":9
+  }
+}

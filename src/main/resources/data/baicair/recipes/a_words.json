@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BBB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "baicair:chinese_cabbage"
+    }
+  },
+  "result": {
+    "item": "baicair:a_words",
+    "count": 1
+  }
+}
+

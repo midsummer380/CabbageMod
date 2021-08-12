@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "baicair",
+  "version": "1.0.0",
+
+  "name": "Chinese Cabbage Mod",
+  "description": "This mod adds chinese cabbage to your game.",
+  "authors": [
+    "midsummer380"
+  ],
+  "contact": {
+    "homepage": "https://wcmc.top/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/baicair/icon.png",
+  "entrypoints": {
+    "main": [
+      "com.midsummer380.baicair.Main"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
